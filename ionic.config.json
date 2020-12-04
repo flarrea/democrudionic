@@ -1,0 +1,7 @@
+{
+  "name": "listadecanciones",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
